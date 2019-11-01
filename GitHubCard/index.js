@@ -31,7 +31,7 @@ const cardHolder = document.querySelector('.cards');
           user, and adding that card to the DOM.
 */
 
-const followersArray = ['https://api.github.com/users/tygedavis','https://api.github.com/users/lyndsiWilliams','https://api.github.com/users/kpoe03',,'https://api.github.com/users/nathan-saygers'];
+const followersArray = ['https://api.github.com/users/tygedavis','https://api.github.com/users/lyndsiWilliams','https://api.github.com/users/kpoe03',,'https://api.github.com/users/nathan-saygers','https://api.github.com/users/jason-glassbrook'];
 
 // axios.get(followersArray)
 //     .then(response => {
